@@ -1,4 +1,4 @@
-👋 Olá, eu sou Gabriel!
+👋 Olá, que bom vê-lo por aqui! Eu sou o Gabriel!
 
 🎓 Estudante de Desenvolvimento de Sistemas.
 
